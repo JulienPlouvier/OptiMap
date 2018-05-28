@@ -1,0 +1,37 @@
+{
+  "name": "optimap",
+  "version": "1.0.0",
+  "description": "Sources for the OptiMap project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulienPlouvier/OptiMap.git"
+  },
+  "keywords": [
+    "optimap",
+    "map",
+    "meeting",
+    "point",
+    "beer",
+    "bar",
+    "where"
+  ],
+  "author": "Julien Plouvier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JulienPlouvier/OptiMap/issues"
+  },
+  "homepage": "https://github.com/JulienPlouvier/OptiMap#readme",
+  "devDependencies": {
+    "@types/react": "^16.3.14",
+    "@types/react-dom": "^16.0.5",
+    "awesome-typescript-loader": "^5.0.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "source-map-loader": "^0.2.3",
+    "typescript": "^2.8.3"
+  }
+}
